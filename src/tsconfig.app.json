@@ -2,8 +2,10 @@
   "extends": "../tsconfig.json",
   "compilerOptions": {
     "outDir": "../out-tsc/app",
-    "module": "es2015",
-    "types": []
+    "module": "ES6",
+    "types": [ ],
+    "target": "ES2015",
+    "alwaysStrict": true
   },
   "exclude": [
     "src/test.ts",

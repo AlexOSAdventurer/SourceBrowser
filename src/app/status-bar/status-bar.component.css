@@ -1,0 +1,17 @@
+.status-bar {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	margin: 0 0 0em 0;
+	padding: 0;
+	background-color: #222222;
+	text-align: right;
+	opacity: 0.8;
+}
+
+.status-bar span { 
+	text-align: right;
+	font-style: italic;
+	font-size: 1.5em;
+	color: #AAAAAA;
+}

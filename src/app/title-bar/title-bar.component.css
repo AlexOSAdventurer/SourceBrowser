@@ -1,0 +1,17 @@
+.title-bar {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	margin: 0 0 1em 0;
+	padding: 0;
+	background-color: #222222;
+	border-bottom: 2px solid #ddd;
+	text-align: center;
+}
+
+.title-bar span { 
+	text-align: center;
+	font-style: bold;
+	font-size: 3em;
+	color: #EEEEEE;
+}

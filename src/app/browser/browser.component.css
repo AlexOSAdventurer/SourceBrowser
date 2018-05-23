@@ -1,0 +1,9 @@
+.browser {
+	position: fixed;
+	width: 20%;
+	margin: 0;
+	padding: 0;
+	height: calc(100% - 5em - 2px);
+	top: calc(3em + 7px);
+	background-color: green;
+}
